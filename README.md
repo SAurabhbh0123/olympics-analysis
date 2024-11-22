@@ -1,5 +1,8 @@
 # olympics-analysis
 
+# About
+Olympic analysis examines data from past and current Olympic Games to identify trends, performance metrics, and key insights. It includes studying athletes’ performances, medal tallies, country rankings, and event-specific outcomes. Advanced analytics can predict future results, assess the impact of training techniques, or explore geopolitical influences. Such insights support decision-making for athletes, coaches, and organizations.
+
 ![Screenshot 2024-11-20 at 20-08-29 app · Streamlit](https://github.com/user-attachments/assets/70d83dea-76e0-4c46-ac9b-e5bf08cc2c5a)
 
 ![Screenshot 2024-11-20 at 20-11-06 app · Streamlit](https://github.com/user-attachments/assets/9dd3bd8f-c962-4c7f-973b-be0579e162b8)
